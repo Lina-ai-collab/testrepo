@@ -1,3 +1,5 @@
 # testrepo
-IBM Lab
-Testing
+
+## Editing the file
+
+Its a matrkdown file in this repository.
